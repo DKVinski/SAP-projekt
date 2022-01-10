@@ -5,9 +5,6 @@
                 >Stranica1</v-flex
             >
         </v-layout>
-        <v-layout row wrap class="sadrzaj-stranice1">
-                
-        </v-layout>
     </v-container>
 </template>
 
